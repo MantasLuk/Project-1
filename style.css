@@ -81,7 +81,7 @@ h2{
     }
 }
 
-@media (min-width:424px) and (max-width: 767px){
+@media (min-width:424px) and (max-width: 768px){
     .back{
         background: url(./img/background-2.png) center/cover no-repeat fixed;  
     }
@@ -130,7 +130,7 @@ h2{
 }
 
 
-@media(min-width:766px) and (max-width:2000px){
+@media(min-width:769px) and (max-width:2600px){
    
         .back::after{
             content: '';
